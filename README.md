@@ -15,7 +15,7 @@ Este projeto implementa um sistema de detecção de anomalias em dados de sensor
 
 A imagem abaixo mostra a comparação entre os métodos aplicados a um dataset de temperatura ambiente:
 
-![Comparação de Métodos de Detecção de Anomalias](imagem_comparacao.png)
+![Comparação de Métodos de Detecção de Anomalias](https://raw.githubusercontent.com/gabrielcardoso-estatistico/decetar_anomalias/refs/heads/main/transferir.png)
 
 ### Estatísticas comparativas
 
